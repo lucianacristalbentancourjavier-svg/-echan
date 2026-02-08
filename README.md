@@ -1,7 +1,3 @@
-# Ñchan
-
-osi
-
 <!DOCTYPE html>
 
 <html lang="es">
@@ -10,7 +6,7 @@ osi
 
 &nbsp; <meta charset="UTF-8">
 
-&nbsp; <title>Mi primera web uwu</title>
+&nbsp; <title>Ñchan</title>
 
 
 
@@ -20,7 +16,7 @@ osi
 
 &nbsp;     background-color: #ffe6f2;
 
-&nbsp;     font-family: Arial, sans-serif;
+&nbsp;     font-family: Comic Sans MS, sans-serif;
 
 &nbsp;     text-align: center;
 
@@ -84,13 +80,15 @@ osi
 
 
 
-&nbsp; <h1>Hola mundo uwu 💕</h1>
+&nbsp; <h1>¿Qué es Ñchan?</h1>
 
-&nbsp; <p>Esta es mi primera página web hecha con amor ✨</p>
+&nbsp; <p>Ñchan es un foro público latinoamericano que busca que personas interactúen de manera anónima sobre sus temas de interes. Puedes encontrar muchos canales con temas asignados por sus respectivos títulos. Puedes ingresar a cada canal haciendo click sobre el nombre de este. </p>
 
 
 
-&nbsp; <button onclick="saludar()">Haz clic aquí</button>
+&nbsp; <button onclick="window.location.href = 'otra_pagina.html'">
+  Ñandom
+</button>
 
 
 
@@ -98,9 +96,7 @@ osi
 
 &nbsp;   function saludar() {
 
-&nbsp;     alert("Holaaa 💖 gracias por tocar el botoncito uwu");
-
-&nbsp;   }
+&nbsp;     alert("Comes pene puta);
 
 &nbsp; </script>
 
